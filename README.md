@@ -56,4 +56,4 @@ Here is the architecture diagram that your team creates for Lilly :
 
 ## CERTIFICATE OF COMPLETION : 
 [kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_5EiTYAfsEWSmNmQpE_1742288337285_completion_certificate.pdf](https://github.com/user-attachments/files/19314851/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_5EiTYAfsEWSmNmQpE_1742288337285_completion_certificate.pdf)
-
+<img src="Screenshot 2025-03-18 144230.png" alt="certificate">
