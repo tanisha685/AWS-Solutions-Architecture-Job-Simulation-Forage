@@ -55,4 +55,4 @@ Here is the architecture diagram that your team creates for Lilly :
 ## CHECK OUT THE SIMULATION HERE : [Job Simulation Link](https://www.theforage.com/simulations/aws-apac/solutions-architecture-ts4o)
 
 ## CERTIFICATE OF COMPLETION : 
-![AWS APAC Solutions Architecture Completion Certificate_page-0001](https://github.com/prajwalchapke055/AWS-Solutions-Architecture-Job-Simulation-Forage/assets/122814333/767fd46f-1c39-4e55-820b-b58497c46b5e)
+<img src="kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_5EiTYAfsEWSmNmQpE_1742288337285_completion_certificate.pdf" alt="certificate">
